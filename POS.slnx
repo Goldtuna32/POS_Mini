@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="POS.Api/POS.Api.csproj" />
+  <Project Path="POS.Database/POS.Database.csproj" />
+  <Project Path="POS.Domain/POS.Domain.csproj" />
+</Solution>
